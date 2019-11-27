@@ -6,11 +6,11 @@ It's an app which helps you download videos of Vrv.Tell me your thoughts about i
 <img src="https://github.com/honghongleong/Vrv-Downloader/blob/master/Preview/preview%202.png"/>
 
 ##To Do
-[ ]Add proxy support
-[ ]Download whole series
-[ ]Geo Bypass?
-[ ]Save in multiple format instead of mp4
-[ ]Better UI
+[ ]Add proxy support__
+[ ]Download whole series___
+[ ]Geo Bypass?__
+[ ]Save in multiple format instead of mp4__
+[ ]Better UI__
 
 Thanks for stopping by!  
 ありがとうございました  
