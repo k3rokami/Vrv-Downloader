@@ -1,4 +1,4 @@
-## Updates would happen when I have the time.
+# Updates would happen when I have the time.
 
 # Vrv Downloader
 
@@ -7,7 +7,7 @@ It's an app which helps you download videos off VRV.Had only tried to download c
 The coding isn't that well done since I'm self thought so expect bugs/errors,also report via the Issues if they aries I would try my best to fix.
 
 ## Here's a Preview of it
-<img src="https://github.com/honghongleong/Vrv-Downloader/blob/master/Preview/preview%202.png"/>
+<img src="https://github.com/honghongleong/Vrv-Downloader/blob/master/Preview/Untitled.jpg?raw=true"/>
 
 ## To Do  
 - [x] Dependencies extract showing no progress.
