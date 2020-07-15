@@ -9,7 +9,7 @@ The coding isn't that well done since I'm self thought so expect bugs/errors,als
 ## Here's a Preview of it
 <img src="https://github.com/honghongleong/Vrv-Downloader/blob/master/Preview/Untitled.jpg?raw=true"/>
 
-## To Do  
+## To Do's  
 - [x] Dependencies extract showing no progress.
 - [ ] Add proxy support  
 - [ ] Download whole series  
