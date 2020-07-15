@@ -15,6 +15,7 @@ It's quite buggy so take note and yes I don't really code that much.
 [ ]Geo Bypass?  
 [ ]Save in multiple format instead of mp4  
 [ ]Better UI  
+[ ]Dependencies extract showing no progress.
 
 Thanks for stopping by!  
 ありがとうございました  
