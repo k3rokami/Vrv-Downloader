@@ -1,4 +1,3 @@
-https://img.shields.io/github/downloads/honghongleong/Vrv-Downloader/total
 # Updates would happen when I have the time.
 
 # Vrv Downloader
