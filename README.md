@@ -11,13 +11,12 @@ The coding isn't that well done since I'm self thought so expect bugs/errors,als
 
 ## To Do's  
 - [x] Dependencies extract showing no progress.
-- [ ] Add proxy support  
-- [ ] Download whole series  
-- [ ] Geo Bypass?  
-- [ ] Save in multiple format instead of mp4  
+- [ ] Ability to save to the same folder instead of selecting save path everytime
+- [ ] Save in multiple format instead of mp4
+- [ ] Download whole series
 - [ ] Better UI  
 - [ ] Ability to change themes/background
-- [ ] Ability to save to the same folder instead of selecting save path everytime
+- [ ] Add proxy support/Geo bypass(Unable to get it work always 404 or 403 on my side with geo-bypass and proxy)
 
 Thanks for stopping by!  
 ありがとうございました  
