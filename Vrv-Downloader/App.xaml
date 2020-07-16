@@ -1,0 +1,13 @@
+﻿<Application x:Class="VrvDownloader.App"
+			 xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+			 xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+			 xmlns:local="clr-namespace:VrvDownloader"
+			 xmlns:po="http://schemas.microsoft.com/winfx/2006/xaml/presentation/options" ShutdownMode="OnExplicitShutdown"
+			 >
+	<Application.Resources>
+		 <BitmapImage x:Key="BackgroundImage" po:Freeze="True" UriSource="/Images/k-on.jpg"/>
+        <BitmapImage x:Key="Background" po:Freeze="True" UriSource="/Images/background2.jpg"/>
+        <BitmapImage x:Key="AboutBG" po:Freeze="False" UriSource="/Images/k-on.gif"/>
+        <BitmapImage x:Key="Logo" po:Freeze="True" UriSource="/Images/Blankrv.png"/>
+    </Application.Resources>
+</Application>
