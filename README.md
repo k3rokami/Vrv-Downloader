@@ -4,9 +4,7 @@
 
 It's an app which helps you download videos off VRV.Had only tried to download crunchyroll anime off it,premium anime won't work so does Hidive unless you have a premium account which you could try with the "Requires Premium" box.No gurantees It would work since I don't own a premium account.
 
-The original code and ui is based off skid9000's Crunchyroll-Downloader which could be found [Here](https://github.com/skid9000/Crunchyroll-Downloader)
-
-Additional code I've added isn't that well done since I'm self thought so expect bugs/errors,also report via the Issues if they aries I would try my best to fix.
+Some code isn't that well done since I'm self thought so expect bugs/errors,also report via the Issues if they aries I would try my best to fix.
 
 ## Here's a Preview of it
 <img src="https://github.com/honghongleong/Vrv-Downloader/blob/master/Preview/Updated%20Preview.jpg?raw=true"/>
@@ -23,6 +21,9 @@ Additional code I've added isn't that well done since I'm self thought so expect
 ## Tools Used
 **An account is not required but vpn is needed if you're outside US.**  
 ***The programme uses [Youtube-dl](https://github.com/rg3/youtube-dl) and [ffmpeg](https://ffmpeg.org/).***
+
+### License
+**This tool is under the [AGPLv3](https://github.com/honghongleong/Vrv-Downloader/blob/master/LICENSE) license.**  
 
 Thanks for stopping by!  
 ありがとうございました  
