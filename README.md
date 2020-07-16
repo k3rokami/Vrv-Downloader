@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/github/downloads/honghongleong/Vrv-Downloader/total"/></a> <img src="https://img.shields.io/github/v/release/honghongleong/Vrv-Downloader"/></a> <img src="https://img.shields.io/github/last-commit/honghongleong/Vrv-Downloader"/></a> <img src="https://img.shields.io/github/license/honghongleong/Vrv-downloader"/></a>
+<img src="https://img.shields.io/github/downloads/honghongleong/Vrv-Downloader/total"/></a> <img src="https://img.shields.io/github/v/release/honghongleong/Vrv-Downloader"/></a> <img src="https://img.shields.io/github/last-commit/honghongleong/Vrv-Downloader"/></a> <img src="https://img.shields.io/github/license/honghongleong/vrv-downloader"/></a>
 ## Updates would happen when I have the time.
 # Vrv Downloader
 
