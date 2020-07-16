@@ -22,7 +22,7 @@ Some code isn't that well done since I'm self thought so expect bugs/errors,also
 **An account is not required but vpn is needed if you're outside US.**  
 ***The programme uses [Youtube-dl](https://github.com/rg3/youtube-dl) and [ffmpeg](https://ffmpeg.org/).***
 
-### License
+## License
 **This tool is under the [AGPLv3](https://github.com/honghongleong/Vrv-Downloader/blob/master/LICENSE) license.**  
 
 Thanks for stopping by!  
