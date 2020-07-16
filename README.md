@@ -9,7 +9,7 @@ The original code and ui is based off skid9000's Crunchyroll-Downloader which co
 Additional code I've added isn't that well done since I'm self thought so expect bugs/errors,also report via the Issues if they aries I would try my best to fix.
 
 ## Here's a Preview of it
-<img src="https://github.com/honghongleong/Vrv-Downloader/blob/master/Preview/Untitled.jpg?raw=true"/>
+<img src="https://github.com/honghongleong/Vrv-Downloader/blob/master/Preview/Updated%20Preview.jpg?raw=true"/>
 
 ## To Do's  
 - [x] Dependencies extract showing no progress.
