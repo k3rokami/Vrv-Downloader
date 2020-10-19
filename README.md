@@ -1,5 +1,5 @@
 <img src="https://img.shields.io/github/downloads/honghongleong/Vrv-Downloader/total"/></a> <img src="https://img.shields.io/github/v/release/honghongleong/Vrv-Downloader"/></a> <img src="https://img.shields.io/github/last-commit/honghongleong/Vrv-Downloader"/></a> <img src="https://img.shields.io/github/license/honghongleong/vrv-downloader"/></a>
-## Updates would happen when I have the time.
+## Updates/Bug Fixes would happen when I have the time.
 # Vrv Downloader
 
 It's an app which helps you download videos off VRV.Had only tried to download crunchyroll anime off it,premium anime won't work so does Hidive unless you have a premium account which you could try with the "Requires Premium" box.No gurantees It would work since I don't own a premium account.
