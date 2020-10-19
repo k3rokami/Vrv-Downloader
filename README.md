@@ -2,7 +2,7 @@
 ## Updates/Bug Fixes would happen when I have the time.
 # Vrv Downloader
 
-It's an app which helps you download videos off VRV.Had only tried to download crunchyroll anime off it,premium anime won't work so does Hidive unless you have a premium account which you could try with the "Requires Premium" box.No gurantees It would work since I don't own a premium account.
+It's an app which helps you download videos off VRV.I had only tried to download crunchyroll anime off it,premium anime won't work so does Hidive unless you have a premium account which you could try with the "Requires Premium" box.No gurantees It would work since I don't own a premium account.
 
 Some code isn't that well done since I'm self thought so expect bugs/errors,also report via the Issues if they aries I would try my best to fix.
 
