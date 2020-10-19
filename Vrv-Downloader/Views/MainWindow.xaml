@@ -79,7 +79,7 @@
 					  ItemsSource="{Binding AvailableFormats}" SelectionChanged="ComboBox_SelectionChanged"/>
             <CheckBox Grid.Column="6" Foreground="Black" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="5,0,0,0" IsEnabled="{Binding AreSubtitlesEnabled}" IsChecked="{Binding IsMkv, Mode=TwoWay}"/>
             <Label Grid.Column="7" Content="Mkv" Foreground="White" HorizontalAlignment="Right" VerticalAlignment="Center" Margin="0,0,0,0" />
-            <Label Grid.Column="0" Content="Requires Premium?" Foreground="#FF11D1C8" HorizontalAlignment="Right" VerticalAlignment="Center" Margin="0,-63,5,67" FontFamily="Segoe UI Black" Background="{x:Null}" Grid.ColumnSpan="3" Width="150"/>
+            <Label Grid.Column="0" Content="Requires Premium?" Foreground="#FFEAEA0A" HorizontalAlignment="Right" VerticalAlignment="Center" Margin="0,-63,5,67" FontFamily="Segoe UI Black" Background="{x:Null}" Grid.ColumnSpan="3" Width="150"/>
             <CheckBox Grid.Column="2" x:Name="Prem" HorizontalAlignment="Left" VerticalAlignment="Center" IsChecked="{Binding PremiumEnabled, Mode=TwoWay}" Margin="39,-57,0,71" Checked="Prem_Checked" Height="16" Width="16"/>
         </Grid>
         <!-- Path part -->

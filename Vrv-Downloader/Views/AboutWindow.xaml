@@ -23,7 +23,7 @@
             </Label.Foreground>
         </Label>
         <Label Grid.Row="1" x:Name="label_2" Content="Thanks for using It!" HorizontalAlignment="Left" Margin="0,5,0,0" VerticalAlignment="Top" Foreground="#00c4e6" Height="26" Width="225" FontFamily="Shrikhand" FontSize="16"/>
-        <Label Grid.Row="2" x:Name="label_3" Content="Version : V2.0.1" HorizontalAlignment="Left" Margin="10,5,0,0" VerticalAlignment="Top" Foreground="#FFF510AC" Height="26" Width="295" FontFamily="Orbitron" FontSize="14"/>
+        <Label Grid.Row="2" x:Name="label_3" Content="Version : V2.0.4" HorizontalAlignment="Left" Margin="10,5,0,0" VerticalAlignment="Top" Foreground="#FFF510AC" Height="26" Width="295" FontFamily="Orbitron" FontSize="14"/>
         <WrapPanel Grid.Row="4" Margin="10,0">
             <Button x:Name="button" Content="Update Youtube-DL" HorizontalAlignment="Left" Margin="0,15,44,0" VerticalAlignment="Top" Height="34" Width="160" Click="button_Click"/>
             <Button x:Name="button2" Content="Re-Download Dependencies" HorizontalAlignment="Left" Margin="0,15,0,0" VerticalAlignment="Top" Height="34" Width="160" Click="button_Click2Async"/>

@@ -21,14 +21,15 @@ namespace VrvDownloader.Views
 		{
 			var username = textBox_username.Text;
 			var password = textBox_password.Password;
+            var logininfo = new FileInfo(@"C:\ProgramData\Vrv - DL\login.json");
 
-			if (string.IsNullOrEmpty(username))
+            if (string.IsNullOrEmpty(username))
 			{
 				MessageBox.Show("Please, put your username.", "Error", MessageBoxButton.OK, MessageBoxImage.Exclamation);
 				return;
 			}
 
-			if (string.IsNullOrEmpty(password))
+			 if (string.IsNullOrEmpty(password))
 			{
 				MessageBox.Show("Please, put your password.", "Error", MessageBoxButton.OK, MessageBoxImage.Exclamation);
 				return;

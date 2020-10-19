@@ -236,7 +236,7 @@ namespace VrvDownloader.ViewModels
             }
             var login = $"--username {username} --password {password}";
             var ua = $"--user-agent \"Mozilla / 5.0 (Windows NT 10.0; Win64; x64; rv: 65.0) Gecko / 20100101 Firefox / 65.0\"";
-            var basicArguments = $"--console-title --newline --no-warnings --no-part -o  \"{currentSavePath}{currentSavePath2}\" {ua}";
+            var basicArguments = $"--console-title --newline --no-warnings --no-check-certificate --no-part -o  \"{currentSavePath}{currentSavePath2}\" {ua}";
             var subsArguments = $"--write-sub --sub-lang {Language} --sub-format {Format}";
             var qualityArguments = Quality == Best ? "-f best" : $"-f \"best[height={Quality}]\"";
 
@@ -252,23 +252,24 @@ namespace VrvDownloader.ViewModels
                 }
             };
 
-            if (AreSubtitlesEnabled)
+            if (PremiumEnabled & AreSubtitlesEnabled)
             {
-                process.StartInfo.Arguments = IsMkv
-                    ? $"{qualityArguments} --recode-video mkv --embed-subs --postprocessor-args \"-disposition:s:0 default\" {subsArguments} {basicArguments}"
-                    : $"{qualityArguments} {subsArguments} {basicArguments}";
+                process.StartInfo.Arguments = $"{login} {qualityArguments} {subsArguments} {basicArguments}";
+                
             }
             else if (PremiumEnabled)
             {
                 process.StartInfo.Arguments = $"{login} {qualityArguments} {basicArguments}";
             }
-            else if (PremiumEnabled && AreSubtitlesEnabled)
+            else if (AreSubtitlesEnabled)
             {
-                process.StartInfo.Arguments = $"{login} {qualityArguments} {subsArguments} {basicArguments}";
+                process.StartInfo.Arguments = IsMkv
+                    ? $"{qualityArguments} --recode-video mkv --embed-subs --postprocessor-args \"-disposition:s:0 default\" {subsArguments} {basicArguments}"
+                    : $"{qualityArguments} {subsArguments} {basicArguments}";
             }
             else
             {
-                process.StartInfo.Arguments = $"{qualityArguments} --recode-video mkv --embed-subs --postprocessor-args \"-disposition:s:0 default\" {subsArguments} {basicArguments}";
+                process.StartInfo.Arguments = $"{qualityArguments} {subsArguments} {basicArguments}";
             }
 
             process.StartInfo.Arguments += " -v --newline " + Url;
