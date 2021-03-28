@@ -17,9 +17,6 @@ Some code isn't that well done since I'm self thought so expect bugs/errors,also
 - [ ] Ability to change themes/background
 - [ ] Add proxy support/Geo bypass(Unable to get it work always 404 or 403 on my side with geo-bypass and proxy)
 
-## Updates/Bug Fixes would happen when I have the time.
-I prioritise my school work over this so don't expect regular updates.  
-If you want to help out drop me a message[I'm still learning C# so yeah] or just take the code😂  
 [Orginal Code](https://github.com/skid9000/Crunchyroll-Downloader/) not by me but small changes here and there were made by me.  
 
 ## Tools Used
