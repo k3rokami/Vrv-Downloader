@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\hongh\Desktop\Projects On-Going\Vrv Downloader(Sln)\Vrv-Downloader\obj\Debug\
+C:\Users\hongh\Documents\GitHub\Vrv-Downloader\Vrv-Downloader\obj\Debug\
 VrvDownloader
 none
 false
 DEBUG;TRACE
-C:\Users\hongh\Desktop\Projects On-Going\Vrv Downloader(Sln)\Vrv-Downloader\App.xaml
+C:\Users\hongh\Documents\GitHub\Vrv-Downloader\Vrv-Downloader\App.xaml
 41667305134
 
-22-296162227
-201442604676
+191107553245
+20280453525
 Views\AboutWindow.xaml;Views\LoginWindow.xaml;Views\ProgressWindow.xaml;Views\MainWindow.xaml;
 
-False
+True
 

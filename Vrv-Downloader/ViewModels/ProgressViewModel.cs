@@ -4,7 +4,7 @@ using VrvDownloader.Progress;
 
 namespace VrvDownloader.ViewModels
 {
-	public class ProgressViewModel : PropertyChangedObject
+    public class ProgressViewModel : PropertyChangedObject
 	{
 		public TaskManager Progress
 		{

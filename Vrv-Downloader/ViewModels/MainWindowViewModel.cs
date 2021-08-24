@@ -159,6 +159,7 @@ namespace VrvDownloader.ViewModels
                     startInfo.FileName = "taskkill";
                     startInfo.WindowStyle = ProcessWindowStyle.Hidden;
                     startInfo.Arguments = "/F /IM ffmpeg.exe";
+                    startInfo.Arguments = "/F /IM Vrv-Downloader.exe.exe";
                     Process.Start(startInfo);
                 }
             };
@@ -205,7 +206,9 @@ namespace VrvDownloader.ViewModels
                     if (TimeSpan.TryParse(value, out var step))
                     {
                         var progress = step.TotalMilliseconds / totalDuration.Value.TotalMilliseconds;
+                        System.Diagnostics.Debug.WriteLine(progress);//Debug
                         data.Progress.CurrentTask.Progress = progress;
+                        
                     }
                 }
             };
