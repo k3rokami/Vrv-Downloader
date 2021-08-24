@@ -1,12 +1,17 @@
 <img src="https://img.shields.io/github/downloads/honghongleong/Vrv-Downloader/total"/></a> <img src="https://img.shields.io/github/v/release/honghongleong/Vrv-Downloader"/></a> <img src="https://img.shields.io/github/last-commit/honghongleong/Vrv-Downloader"/></a> <img src="https://img.shields.io/github/license/honghongleong/vrv-downloader"/></a>
 # Vrv Downloader
 
-It's an app which helps you download videos off VRV.I had only tried to download crunchyroll anime off it,premium anime won't work so does Hidive unless you have a premium account which you could try with the "Requires Premium" box.No gurantees It would work since I don't own a premium account.
-
-Some code isn't that well done since I'm self thought so expect bugs/errors,also report via the Issues if they aries I would try my best to fix.
+An app to rip videos off VRV, had only tried to download anime off crunchyroll on vrv.Some features may not work as intended(Selecting enUS but downloads in another lang) and there would be bugs while using the application,the appplication would only be maintained when I have the time.  
+Features that are not tested/doesn't work:
+- Premium
+- Hidive
 
 ## Here's a Preview of it
 <img src="https://github.com/honghongleong/Vrv-Downloader/blob/master/Preview/Updated%20Preview.jpg?raw=true"/>
+
+## Fork  
+This is a fork of [Crunchyroll Downloader](https://github.com/skid9000/Crunchyroll-Downloader/) but with minor changes to get it work with vrv.  
+Yes,I didn't know to use github last time.  
 
 ## To Do's  
 - [x] Dependencies extract showing no progress.
@@ -16,9 +21,6 @@ Some code isn't that well done since I'm self thought so expect bugs/errors,also
 - [ ] Better UI  
 - [x] Ability to change themes/background(Not possible due to the images being compiled after build.There maybe other ways to get it work but for now no.)
 - [ ] Add proxy support/Geo bypass(Using system wide proxy does work but would be better if it's only app based proxy)
-
-This is a fork of [Crunchyroll Downloader](https://github.com/skid9000/Crunchyroll-Downloader/) but with changes to get it work with vrv.  
-Yes,I didn't know to use github last time.  
 
 ## Tools Used
 **An account is not required but vpn/proxy is needed if you're outside US.**  
