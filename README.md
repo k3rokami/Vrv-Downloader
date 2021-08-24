@@ -12,20 +12,21 @@ Some code isn't that well done since I'm self thought so expect bugs/errors,also
 - [x] Dependencies extract showing no progress.
 - [x] Ability to save to the same folder instead of selecting save path everytime
 - [x] Save in multiple format instead of mp4
-- [ ] Download whole series
+- [ ] Download whole series (App instantly download next video after one is done leaving no time for previous video.)
 - [ ] Better UI  
-- [ ] Ability to change themes/background
-- [ ] Add proxy support/Geo bypass(Unable to get it work always 404 or 403 on my side with geo-bypass and proxy)
+- [x] Ability to change themes/background(Not possible due to the images being compiled after build.There maybe other ways to get it work but for now no.)
+- [ ] Add proxy support/Geo bypass(Using system wide proxy does work but would be better if it's only app based proxy)
 
-[Orginal Code](https://github.com/skid9000/Crunchyroll-Downloader/) not by me but small changes here and there were made by me.  
+This is a fork of [Crunchyroll Downloader](https://github.com/skid9000/Crunchyroll-Downloader/) but with changes to get it work with vrv.  
+Yes,I didn't know to use github last time.  
 
 ## Tools Used
-**An account is not required but vpn is needed if you're outside US.**  
+**An account is not required but vpn/proxy is needed if you're outside US.**  
 ***The programme uses [Youtube-dl](https://github.com/rg3/youtube-dl) and [ffmpeg](https://ffmpeg.org/).***
 
 ## License
 **This tool is under the [AGPLv3](https://github.com/honghongleong/Vrv-Downloader/blob/master/LICENSE) license.**  
 
 Thanks for stopping by!  
-ありがとうございました  
+ありがとうございます  
 Have a good day! ^_^
